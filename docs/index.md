@@ -20,4 +20,4 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 中文字体
 
 ## emoji test
-I like to drink :beers: after I play :soccer:
+I like to drink :beers: after I play :soccer: hahaha
