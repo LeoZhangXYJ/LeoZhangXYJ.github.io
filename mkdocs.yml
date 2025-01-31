@@ -8,8 +8,11 @@ site_description: Study Notes
 # [Navigtion]
 nav:
   - CS:
-    - cs: 
-      - CS/cs.md
+    - DataStructure:
+      - CS/CS61B/CS61B.md
+      - CS/CS61B/lec1 Intro to java.md
+      - CS/CS61B/lec2 Defineing and using classes.md
+      
 
   - GIS:
     - gis: 
@@ -23,7 +26,9 @@ nav:
         - GIS/SpaticalAnalysis/IntroGIS/6_PitfallsToAvoid.md
   
   - MATH:
-    - MATH/math.md
+    - Discrete mathematics:
+      - MATH/UCB_CS70/UCB_CS70.md
+      - MATH/UCB_CS70/lec1.md
 
   - OTHER:
     - OTHER/other.md
@@ -172,6 +177,13 @@ markdown_extensions:
   # markdown tabbed扩展
   - pymdownx.tabbed:
       alternate_style: true
+  - abbr
+  # ...some extensions for pdf
+  - pymdownx.pathconverter:
+      base_path: '' # default: ''
+      relative_path: '' # default ''
+      absolute: false # default: false
+      tags: 'a script img link object embed'
 
 extra_javascript:
   # [数学公式支持]
