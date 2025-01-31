@@ -1,8 +1,9 @@
-# 4_SymbolizingFeatures
+# 4.Symbolizing Features
 
 ## Color
 
 Each color is a combination of three perceptual dimensions:
+
 - Hue
 - Lightness
 - Saturation
@@ -23,6 +24,7 @@ Each color is a combination of three perceptual dimensions:
 ## Color Space
 
 Lightness, saturation, and hue are the cone’s height, radius, and circumference respectively.
+
 ![Color Space](./Image/ColorSpace.png)
 
 ## Classification

@@ -1,4 +1,4 @@
-# 2_FeatureRepresentation
+# 2.Feature Representation
 ## Vector vs. Raster
 
 ### Vector

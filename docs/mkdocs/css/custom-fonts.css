@@ -1,0 +1,11 @@
+/* 引入 JetBrains Mono 字体 */
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap');
+
+/* 引入 霞鹜文楷 字体 */
+@import url('https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.3.0/style.css');
+
+
+/* 针对字体设置 优先JetBrains Mono 实现前者英文后者中文 */
+body {
+    font-family: 'JetBrains Mono', '霞鹜文楷', monospace, sans-serif;
+}

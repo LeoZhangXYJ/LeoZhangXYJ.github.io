@@ -1,3 +1,5 @@
+# 1.Introduction To GIS
+
 ## What is GIS
 
 !!!INFO GIS
@@ -12,4 +14,3 @@
 - Statistical maps
 
 **Spatial Analysis focus on the last two**
-

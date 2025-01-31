@@ -83,6 +83,8 @@ theme:
     # [点击按钮跳转至 GitHub 修改 Markdown 源文件]
     # https://squidfunk.github.io/mkdocs-material/setup/adding-a-git-repository/#code-actions
     - content.action.edit
+    # Footer用于翻页
+    - navigation.footer
   language: zh # 一些提示性的文字会变成中文
   icon:
     # [添加 GitHub 仓库]
@@ -176,7 +178,7 @@ extra_css:
   # https://squidfunk.github.io/mkdocs-material/reference/math/#katex
   - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.css
   # [自定义 css]
-  # 不使用底部的翻页
-  - mkdocs/css/no-footer.css
   # 无序列表符号自定义
   - mkdocs/css/unordered-list-symbols.css
+  # 设置字体
+  - mkdocs/css/custom-fonts.css

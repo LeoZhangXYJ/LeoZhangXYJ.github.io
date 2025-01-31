@@ -1,4 +1,4 @@
-# 6 Pitfalls to Avoid
+# 6.Pitfalls to Avoid
 
 ## Representing Count
 

@@ -1,4 +1,4 @@
-# 5_StatisticalMaps
+# 5.Statistical Maps
 
 ## Statistical distribution maps
 
