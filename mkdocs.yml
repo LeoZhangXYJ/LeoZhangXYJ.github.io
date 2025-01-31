@@ -9,7 +9,7 @@ site_description: Study Notes
 nav:
   - CS:
     - cs: 
-      - TOOL/code.md
+      - CS/cs.md
 
   - GIS:
     - gis: 
@@ -21,11 +21,15 @@ nav:
         - GIS/SpaticalAnalysis/IntroGIS/4_SymbolizingFeatures.md
         - GIS/SpaticalAnalysis/IntroGIS/5_StatisticalMaps.md
         - GIS/SpaticalAnalysis/IntroGIS/6_PitfallsToAvoid.md
+  
+  - MATH:
+    - MATH/math.md
 
+  - OTHER:
+    - OTHER/other.md
 
-  - Tool:
-    - tool: 
-      - TOOL/admionition.md
+  - ABOUT:
+     - ABOUT/about.md
 
 # [UI]
 # [top]
@@ -90,20 +94,22 @@ edit_uri: edit/main/docs/
 # [top-right corner]
 # [添加 GitHub 仓库]
 # https://squidfunk.github.io/mkdocs-material/setup/adding-a-git-repository/
-repo_url: https://github.com/LeoZhangXYJ/LeoZhangXYJ_bolg.git
+repo_url: https://github.com/LeoZhangXYJ/LeoZhangXYJ.github.io.git
 repo_name: LeoZhangXYJ/LeoZhangXYJ_bolg
 # [bottom-left corner]
 # [版权说明]
 # https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-footer/#copyright-notice
 #copyright: 杨希杰 CC-BY-4.0
 # [bottom-right corner]
-#extra:
+extra:
   # [添加社交网络图标和链接]
   # https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-footer/#social-links
   # 搜索图标：https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/#search
   # name 会在鼠标悬浮时提示
-  # social: # icons
-  
+   social: # icons
+    - name: GitHub | LeoZhangXYJ
+      icon: fontawesome/brands/github
+      link: https://github.com/LeoZhangXYJ
 
 # [Extensions]
 plugins:

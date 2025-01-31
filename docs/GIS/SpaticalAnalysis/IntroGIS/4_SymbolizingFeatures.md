@@ -37,7 +37,7 @@ Qualitative schemes are used to symbolize data having no inherent order (i.e. ca
 1. Sequential color schemes are used to highlight ordered data such as income, temperature, elevation, or infection rates.
 2. A well-designed sequential color scheme ranges from a light color (representing low attribute values) to a dark color (representing high attribute values).
 3. Such color schemes are typically composed of a single hue but may include two hues as shown in the last two color schemes of the following figure.
-![Sequential Color Scheme](./Image/SequentialColorScheme.png)
+![Sequential Color Scheme](./Image/SequentialColorSCHEME.png)
 
 ### Divergent color scheme
 

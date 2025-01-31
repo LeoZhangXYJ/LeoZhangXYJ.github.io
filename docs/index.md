@@ -1,23 +1,4 @@
-# Welcome to MkDocs
+# LeoZhang's Note
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
-
-## 中文字体测试
-中文字体
-
-## emoji test
-I like to drink :beers: after I play :soccer: hahaha
+This is my study notebook.  
+It is very simple, only for self-recording and entertainment...  
