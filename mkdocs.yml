@@ -9,7 +9,7 @@ site_description: Study Notes
 nav:
   - CS:
     - cs: 
-    - TOOL/code.md
+      - TOOL/code.md
 
   - GIS:
     - gis: 
