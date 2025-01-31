@@ -35,6 +35,7 @@ nav:
 # [top]
 theme:
   name: material
+  favicon: asserts/avatar.jpg
   # [切换日间模式和夜间模式]
   # https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/#color-palette-toggle
   palette:
@@ -87,6 +88,7 @@ theme:
     - navigation.footer
   language: zh # 一些提示性的文字会变成中文
   icon:
+    logo: fontawesome/solid/earth-asia
     # [添加 GitHub 仓库]
     # https://squidfunk.github.io/mkdocs-material/setup/adding-a-git-repository/#repository-icon
     repo: fontawesome/brands/github
@@ -136,6 +138,10 @@ markdown_extensions:
   # https://squidfunk.github.io/mkdocs-material/reference/images/
   # 给 Markdown 图片语法后面添加 `{width="300"}` 设置大小
   - attr_list
+  #  emoji 扩展
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - md_in_html
   # [给标题添加链接]
   # https://squidfunk.github.io/mkdocs-material/setup/extensions/python-markdown/#+toc.permalink
