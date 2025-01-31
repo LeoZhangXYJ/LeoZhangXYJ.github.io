@@ -13,7 +13,15 @@ nav:
 
   - GIS:
     - gis: 
-      - TOOL/content.md
+      - GIS/SpaticalAnalysis/GIS_StudyFlow.md
+      - IntroGIS:
+        - GIS/SpaticalAnalysis/IntroGIS/1_IntroductionToGIS.md
+        - GIS/SpaticalAnalysis/IntroGIS/2_FeatureRepresentation.md
+        - GIS/SpaticalAnalysis/IntroGIS/3_GISDataManagement.md
+        - GIS/SpaticalAnalysis/IntroGIS/4_SymbolizingFeatures.md
+        - GIS/SpaticalAnalysis/IntroGIS/5_StatisticalMaps.md
+        - GIS/SpaticalAnalysis/IntroGIS/6_PitfallsToAvoid.md
+
 
   - Tool:
     - tool: 
